@@ -3,28 +3,14 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+This blog is a one stop place with all the advice and tips you would need to get a foreign intern. The articles will range from: the best time to apply to preparing recommendation letters, programs to watch out for to crafting a winning email, building a stunning resume to things to pack for your stay abroad! While this blog will best cater the needs of the many aspiring Indian undergraduate/graduate students hoping to spend a productive summer abroads, most of the articles also apply for students across the globe applying to UROPS or research internships. 
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+# Few words about the author
 
-There are currently two themes built on Poole:
+Hey folks! I am a Computer Science graduate from Indian Institute of Technology (IIT) Roorkee. Currently, I am a Deep Learning Intern at Ambient.AI (Palo Alto, USA) and I am passionate about Machine learning research. In the past, I have carried out fully funded foreign internships at Purdue University (USA) and Kyoto University (Japan) in 2015 and 2016 respectively. More recently, I have received several internship offers in the AI/ML industry such as Zalando Research (Germany), 3D Media Co. (Japan), and Sentiance (Belgium). As a result, over the years I have gained a great experience in successfully applying for various kinds of foreign internships. 
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Thus through the medium of this blog I would like to share the things that I have learned from my experiences and the advice I have for all the enthusiastic students out there! :)  
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/foreignintern/foreignintern.github.io/issues/new) or [ask me on Twitter](https://twitter.com/sidakpal21).
 
 Thanks for reading!
