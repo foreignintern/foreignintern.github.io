@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-This blog is a one stop place with all the advice and tips you would need to get a foreign intern. The articles will range from: the best time to apply to preparing recommendation letters, programs to watch out for to crafting a winning email, building a stunning resume to things to pack for your stay abroad! While this blog will best cater the needs of the many aspiring Indian undergraduate/graduate students hoping to spend a productive summer abroads, most of the articles also apply for students across the globe applying to UROPS or research internships. 
+This blog is a one stop place with all the advice and tips you would need to get a foreign intern. The articles will range from: the best time to apply to preparing recommendation letters, programs to watch out for to crafting a winning email, building a stunning resume to things to pack for your stay abroad! While this blog will best cater the needs of the many aspiring Indian undergraduate (or graduate) students hoping to spend a productive summer abroads, most of the articles also apply for students across the globe applying to UROPS or research internships. 
 
 ## Few words about the author
 
